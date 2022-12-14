@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sandeep Singh.
 - 👀 I’m interested in Web3 devlopment.
-- 🌱 I’m currently learning and devloping skills in Web3.
+- 🌱 I’m currently learning and developing skills in Web3.
 - 💞️ I’m looking to get my dream job.
 
 
